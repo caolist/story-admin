@@ -40,7 +40,6 @@ public class RedisKeys {
     public static final String LEGAL_ENTITY_NUM = "legal_entity";
     public static final String INVENTORY_TXN_NUM = "inventory_txn_num";
     public static final String LOCATOR_NUM = "locator_num";
-
     public static final String BIZ_LINE_NUM = "biz_line_num";
 
 }

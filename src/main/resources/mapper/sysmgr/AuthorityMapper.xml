@@ -3,6 +3,7 @@
 <mapper namespace="com.story.storyadmin.mapper.sysmgr.AuthorityMapper">
 
     <!-- 开启二级缓存 -->
-    <cache type="org.mybatis.caches.ehcache.LoggingEhcache"/>
+    <!--<cache type="org.mybatis.caches.ehcache.LoggingEhcache"/>-->
+    <!--<cache type="org.mybatis.caches.ehcache.EhcacheCache"></cache>-->
 
 </mapper>
